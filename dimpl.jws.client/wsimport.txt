@@ -1,0 +1,2 @@
+cd src
+wsimport -Xnocompile -s . -p dimpl.jws.client.generated http://localhost:8765/WS/JWSPlayer?wsdl
